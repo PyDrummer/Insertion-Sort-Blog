@@ -27,7 +27,10 @@ Next I didn't fully understand what was going on so I used this python visualize
 [Link to blog](blog.md)
 
 To-do:
-[x] Write the blog
-[x] Add the code
-[x] Create unit tests
+
+- [x] Write the blog
+
+- [x] Add the code
+
+- [x] Create unit tests
 
